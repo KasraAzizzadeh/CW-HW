@@ -1,5 +1,3 @@
-CW-HW
-
 STAR
 
 This Project Will Draw a Star By Giving it 3 Inputs:
